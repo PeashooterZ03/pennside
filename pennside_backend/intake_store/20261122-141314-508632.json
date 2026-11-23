@@ -1,0 +1,73 @@
+{
+  "key": "pennside:intake:1795374794417",
+  "record": {
+    "syntheticUserId": "YOUR PLAN",
+    "email": "zzkzzk@a.bc",
+    "rawInput": "",
+    "scenario": "Dining",
+    "testCase": "Structured form",
+    "pipelineStage": "Confirmed · demo",
+    "category": "Dining",
+    "activity": "Lunch or dinner",
+    "activityExtracted": "Lunch or dinner",
+    "time": "2026-11-25T11:00",
+    "flexibility": "Within selected availability",
+    "location": "Penn campus · student common area",
+    "budgetMin": 0,
+    "budgetMax": 15,
+    "minParty": 2,
+    "maxParty": 4,
+    "duration": 600,
+    "language": "english",
+    "socialEnergy": "conversational",
+    "softPreferences": "Only lunch accepted, dinner not accepted.",
+    "hardConstraints": "Available: 2026-11-25 at 11:00 – 2026-11-25 at 21:00 (Eastern Time); location: Penn campus · student common area; budget: $0–$15/person; total party: 2–4, including organizer; social energy: conversational; language: english",
+    "missingFields": "None",
+    "conflictFlag": "None",
+    "expectedAction": "Use confirmed selections for matching",
+    "expectedQuestion": "",
+    "confirmedSummary": "Lunch or dinner | 2026-11-25 at 11:00 – 2026-11-25 at 21:00 (Eastern Time) | Penn campus · student common area | $0–$15/person | 2–4 people | conversational | english",
+    "mockCandidates": 0,
+    "expectedMatch": "Matching is not connected yet.",
+    "invitationResult": "No invitation sent",
+    "resourceStatus": "Not checked",
+    "nextStep": "Explore demo events",
+    "feedbackLoop": "Not started",
+    "availableUntil": "2026-11-25T21:00",
+    "timeZone": "America/New_York"
+  },
+  "plan": {
+    "planId": 75,
+    "activity": "Lunch or dinner",
+    "availability": "2026/11/25 11:00-21:00",
+    "location": "Penn campus · student common area",
+    "budgetMin": 0.0,
+    "budgetMax": 15.0,
+    "minParty": 2,
+    "maxParty": 4,
+    "language": "English",
+    "socialEnergy": "conversational",
+    "softPreferences": "Only lunch accepted, dinner not accepted.",
+    "cluster": {
+      "id": "NEW-008",
+      "memberCount": 1,
+      "availability": "2026/11/25 11:00-21:00",
+      "location": "Penn campus · student common area",
+      "minGroupSize": 2,
+      "maxGroupSize": 4,
+      "budgetMin": 0.0,
+      "budgetMax": 15.0,
+      "language": "English",
+      "members": [
+        {
+          "email": "zzkzzk@a.bc",
+          "activity": "Lunch or dinner",
+          "availability": "2026/11/25 11:00-21:00",
+          "socialEnergy": "conversational",
+          "softPreferences": "Only lunch accepted, dinner not accepted.",
+          "isCurrentUser": true
+        }
+      ]
+    }
+  }
+}

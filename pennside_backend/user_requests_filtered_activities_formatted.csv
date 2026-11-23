@@ -1,0 +1,85 @@
+﻿email,Activity_Type,Availability,Location_Zone,Budget_Min_USD,Budget_Max_USD,Min_Group_Size,Max_Group_Size,Language_Preference,Social_Energy,Soft_Preferences,Reference_Group_ID
+user-6e502cbfea5a@example.com,Board games,2026/11/25 14:00-16:00,University City,0.0,15.0,3,7,Both,安静/低社交能量,不介意认识不同专业的同学,G011
+user-b7604d4f3087@example.com,Movie,2026/11/28 14:00-16:00,University City,0.0,50.0,5,5,Both,轻松聊天,最好有共同课程背景,G053
+user-cdd57f3378d6@example.com,Movie,2026/11/28 14:00-16:00,University City,0.0,20.0,3,5,Both,轻松聊天,最好有共同课程背景,G053
+user-d0f2236ce402@example.com,Board games,2026/11/25 14:00-16:00,University City,0.0,15.0,3,7,Chinese,活跃/高社交能量,更喜欢步行能到的地方,G011
+user-b1215f40acce@example.com,Study session,2026/11/24 18:00-20:00,Penn Libraries,0.0,20.0,2,6,English,安静/低社交能量,不介意认识不同专业的同学,G068
+user-22d9ca7a7a48@example.com,Movie,2027/02/24 18:00-20:00,University City,0.0,20.0,3,5,Chinese,不限定,希望大家兴趣相近,NEW-001
+user-1b4506948122@example.com,Movie,2026/11/23 16:00-18:00,University City,0.0,30.0,5,7,English,安静/低社交能量,不想太尴尬，先小组活动,G055
+user-fc18f10b74f1@example.com,Board games,2026/11/23 16:00-18:00,University City,0.0,15.0,5,7,Chinese,活跃/高社交能量,希望可以后续继续约活动,G009
+user-b20949580a68@example.com,Board games,2026/11/29 13:00-15:00,University City,0.0,15.0,3,6,Chinese,轻松聊天,不想太尴尬，先小组活动,G012
+user-d89d55e9e7bc@example.com,Board games,2026/11/25 14:00-16:00,University City,0.0,5.0,3,5,Both,活跃/高社交能量,最好是同校新朋友,G011
+user-22aa9aca173f@example.com,Board games,2026/11/25 14:00-16:00,University City,0.0,10.0,3,7,Chinese,安静/低社交能量,希望可以后续继续约活动,G011
+user-57ab2dc04990@example.com,Movie,2026/11/28 14:00-16:00,University City,0.0,20.0,5,7,English,不限定,更喜欢步行能到的地方,G053
+user-d817de092968@example.com,Movie,2026/11/28 14:00-16:00,University City,0.0,10.0,3,6,Both,轻松聊天,不介意认识不同专业的同学,G053
+user-d17c373ee0f9@example.com,Study session,2026/11/28 14:00-16:00,Penn Libraries,0.0,20.0,2,4,Chinese,活跃/高社交能量,最好是同校新朋友,G069
+user-f463e980b738@example.com,Board games,2026/11/28 10:00-12:00,University City,0.0,15.0,5,6,Both,活跃/高社交能量,不介意认识不同专业的同学,G010
+user-c9540796c11e@example.com,Movie,2026/11/23 16:00-18:00,University City,0.0,20.0,6,6,Chinese,活跃/高社交能量,希望大家兴趣相近,G055-SPLIT-002
+user-12f1c02e3b08@example.com,Movie,2026/11/24 18:00-20:00,University City,0.0,50.0,3,7,Chinese,安静/低社交能量,最好有共同课程背景,G052
+user-21a0d720b66b@example.com,Board games,2026/11/29 13:00-15:00,University City,0.0,30.0,4,6,Chinese,安静/低社交能量,希望可以后续继续约活动,G012
+user-961a53b9dab4@example.com,Study session,2026/11/24 18:00-20:00,Penn Libraries,0.0,50.0,3,4,English,轻松聊天,不想太尴尬，先小组活动,G068
+user-c8d0e219e789@example.com,Movie,2026/11/26 17:00-19:00,University City,0.0,10.0,3,6,Both,安静/低社交能量,更喜欢步行能到的地方,G054
+user-6289b635efba@example.com,Board games,2026/11/23 16:00-18:00,University City,0.0,15.0,3,6,Both,不限定,最好有共同课程背景,G009
+user-1f29e535742f@example.com,Board games,2026/11/28 10:00-12:00,University City,0.0,25.0,3,7,Both,活跃/高社交能量,不想太尴尬，先小组活动,G010
+user-43c092694cc6@example.com,Movie,2026/11/23 16:00-18:00,University City,0.0,30.0,6,8,English,安静/低社交能量,不介意认识不同专业的同学,G055
+user-2b2aeaaa007e@example.com,Study session,2026/11/24 18:00-20:00,Penn Libraries,0.0,15.0,3,5,English,安静/低社交能量,不介意认识不同专业的同学,G068
+user-0883b8cc7cc5@example.com,Study session,2026/11/28 14:00-16:00,Penn Libraries,0.0,10.0,3,5,Both,不限定,希望可以后续继续约活动,G069
+user-552cae765b0a@example.com,Board games,2026/11/25 14:00-16:00,University City,0.0,30.0,3,5,Both,安静/低社交能量,更喜欢步行能到的地方,G011
+user-51c6582c4839@example.com,Movie,2026/11/26 17:00-19:00,University City,0.0,10.0,3,6,Chinese,安静/低社交能量,更喜欢步行能到的地方,G054
+user-48e0f727b2e3@example.com,Study session,2026/11/24 18:00-20:00,Penn Libraries,0.0,20.0,4,4,Both,活跃/高社交能量,不介意认识不同专业的同学,G068
+user-c84403ada3a8@example.com,Movie,2026/11/23 16:00-18:00,University City,0.0,40.0,4,7,Both,活跃/高社交能量,更喜欢步行能到的地方,G055
+user-64339d75e82f@example.com,Board games,2027/07/14 18:00-20:00,University City,0.0,30.0,3,5,Both,安静/低社交能量,最好有共同课程背景,NEW-002
+user-09c97d233cf3@example.com,Movie,2026/11/23 16:00-18:00,University City,0.0,50.0,4,6,Chinese,轻松聊天,更喜欢步行能到的地方,G055-SPLIT-002
+user-247f45ba16e0@example.com,Study session,2026/11/28 14:00-16:00,Penn Libraries,0.0,50.0,2,4,Both,不限定,最好有共同课程背景,G069
+user-a3ba7525a029@example.com,Movie,2026/11/26 17:00-19:00,University City,0.0,8.0,5,6,Both,不限定,希望活动可以随时提前离开,G054
+user-15b620b70d00@example.com,Board games,2026/11/28 10:00-12:00,University City,0.0,10.0,4,5,English,轻松聊天,偏好小组，不想人太多,G010
+user-ef62104bde7c@example.com,Movie,2026/11/24 18:00-20:00,University City,0.0,15.0,4,6,Both,不限定,希望活动可以随时提前离开,G052
+user-9fbad6b702f2@example.com,Board games,2026/11/23 16:00-18:00,University City,0.0,15.0,3,5,English,轻松聊天,偏好小组，不想人太多,G009-SPLIT-002
+user-914a2bc812f4@example.com,Movie,2026/11/23 16:00-18:00,University City,0.0,8.0,6,7,Both,不限定,希望活动可以随时提前离开,G055
+user-ec4f0f53924a@example.com,Board games,2026/11/23 16:00-18:00,University City,0.0,15.0,5,7,English,轻松聊天,偏好小组，不想人太多,G009-SPLIT-002
+user-1af245787e2e@example.com,Movie,2026/11/28 14:00-16:00,University City,0.0,8.0,5,6,Both,不限定,希望活动可以随时提前离开,G053
+user-ebfbeb2fa54c@example.com,Board games,2026/11/28 10:00-12:00,University City,0.0,10.0,4,7,English,轻松聊天,偏好小组，不想人太多,G010
+user-905ff93a0fc3@example.com,Movie,2026/11/24 18:00-20:00,University City,0.0,15.0,5,6,Both,不限定,希望活动可以随时提前离开,G052
+user-6522b8639792@example.com,Board games,2026/11/28 10:00-12:00,University City,0.0,10.0,3,6,English,轻松聊天,偏好小组，不想人太多,G010
+user-7ad779867e97@example.com,Movie,2026/11/24 18:00-20:00,University City,0.0,15.0,3,5,Both,不限定,希望活动可以随时提前离开,G052
+user-73ff223b61a0@example.com,Board games,2026/11/29 13:00-15:00,University City,0.0,10.0,4,4,English,轻松聊天,偏好小组，不想人太多,G012-SPLIT-002
+user-7acae35b4937@example.com,Movie,2026/11/24 18:00-20:00,University City,0.0,15.0,5,7,Both,不限定,希望活动可以随时提前离开,G052
+user-8ddd034f7392@example.com,Board games,2026/11/23 16:00-18:00,University City,0.0,15.0,3,7,English,轻松聊天,偏好小组，不想人太多,G009-SPLIT-002
+user-e37d483fac4e@example.com,Movie,2026/11/26 17:00-19:00,University City,0.0,8.0,5,7,Both,不限定,希望活动可以随时提前离开,G054
+user-0ecc257a30bb@example.com,Board games,2026/11/29 13:00-15:00,University City,0.0,10.0,4,4,English,轻松聊天,偏好小组，不想人太多,G012-SPLIT-002
+user-b777851fe177@example.com,Movie,2026/11/26 17:00-19:00,University City,0.0,8.0,4,5,Both,不限定,公共场所、仅平台沟通、不共享手机号或住址；希望活动可以随时提前离开,G054
+user-a5cbe6f82e3b@example.com,Board games,2026/11/23 16:00-18:00,University City,0.0,30.0,3,6,Both,不限定,倾向小组交流,G083
+user-6b1ba922d461@example.com,Board games,2026/11/23 16:00-18:00,University City,0.0,40.0,4,6,English,外向/高社交能量,倾向小组交流,G083
+user-756659324eb3@example.com,Board games,2026/11/23 16:00-18:00,University City,0.0,30.0,5,5,Both,外向/高社交能量,更喜欢节奏轻松的活动,G083
+user-0e8dfa028ed1@example.com,Board games,2026/11/23 16:00-18:00,University City,0.0,40.0,5,6,Chinese,外向/高社交能量,不介意认识不同专业的同学,G083-SPLIT-002
+user-3a49aa934901@example.com,Board games,2026/11/23 16:00-18:00,University City,0.0,30.0,5,6,Both,外向/高社交能量,最好有共同课程背景,G083
+user-577b88d2ad7e@example.com,Movie,2026/11/28 14:00-16:00,University City,0.0,15.0,5,6,English,外向/高社交能量,更喜欢节奏轻松的活动,G094
+user-55543f1b0df3@example.com,Movie,2026/11/28 14:00-16:00,University City,0.0,30.0,3,6,English,不限定,希望交流共同兴趣,G094
+user-f7ec6e300fa4@example.com,Movie,2026/11/28 14:00-16:00,University City,0.0,25.0,3,5,Chinese,不限定,倾向小组交流,G094-SPLIT-002
+user-888c38894397@example.com,Movie,2026/11/28 14:00-16:00,University City,0.0,15.0,3,6,Both,不限定,可以接受初次认识的同学,G094
+user-763dcafeeea7@example.com,Movie,2026/11/28 14:00-16:00,University City,0.0,10.0,4,5,Both,外向/高社交能量,更喜欢节奏轻松的活动,G094
+user-c1898f84bace@example.com,Study session,2026/11/28 14:00-16:00,Penn Libraries,0.0,30.0,4,7,Both,轻松聊天,不介意认识不同专业的同学,G098
+user-e526b002856b@example.com,Study session,2026/11/28 14:00-16:00,Penn Libraries,0.0,15.0,3,7,Both,安静/低社交能量,更喜欢节奏轻松的活动,G098
+user-ae8564731a31@example.com,Study session,2026/11/28 14:00-16:00,Penn Libraries,0.0,30.0,2,5,Chinese,不限定,希望大家都能积极参与,G098
+user-86364f1dd18f@example.com,Study session,2026/11/28 14:00-16:00,Penn Libraries,0.0,30.0,4,7,Both,轻松聊天,可以接受初次认识的同学,G098
+user-46a2aba7b580@example.com,Study session,2026/11/28 14:00-16:00,Penn Libraries,0.0,35.0,2,5,Both,外向/高社交能量,最好有共同课程背景,G098
+zzk@abc.com,Coffee & conversation,2026/11/23 18:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,None specified,NEW-003
+zzk@xyz.com,Coffee & conversation,2026/11/23 18:10-21:00,Penn campus · student common area,0.0,10.0,3,4,Both,conversational,All good.,NEW-003
+123@a.a,Coffee & conversation,2026/11/23 18:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,None specified,NEW-003
+a@b.com,Board games,2026/11/23 18:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,Less than 30 minutes.,NEW-004
+c@d.com,Board games,2026/11/23 18:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,Over 1 hour.,NEW-005
+iii@uuuy.com,Board games,2026/11/23 18:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,Less than 20 minutes.,NEW-004
+qqqq@qqq.com,Board games,2026/11/23 18:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,Basketball,NEW-005
+kk@kk.kk,Board games,2026/11/23 18:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,Football.,NEW-004
+aaa2@ss.c,Lunch or dinner,2026/11/23 18:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,only want to have lunch.,NEW-006
+aaaacs@isufkd.ad,Lunch or dinner,2026/11/23 18:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,only want to have dinner,NEW-007
+aaahgasdv@sdouvfh.sdfh,Lunch or dinner,2026/11/23 18:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,Lunch and dinner both work for me. Hope to talk about internship.,NEW-007
+zzkzzk@a.bc,Lunch or dinner,2026/11/25 11:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,"Only lunch accepted, dinner not accepted.",NEW-008
+zzz@a.b,Lunch or dinner,2026/11/26 08:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,"Lunch accepted, dinner not accepted.",NEW-009
+aaaaaa@upenn.edu,Movie,2026/11/23 15:00-21:00,University City,0.0,15.0,5,9,Both,open to anything,None specified,G055-SPLIT-002
+hsgdhhjbhb@upenn.edu,Lunch or dinner,2026/11/29 09:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,"Only lunch, not dinner.",NEW-010
+sfdeghvd@upenn.edu,Lunch or dinner,2026/11/29 09:00-23:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,Only dinner accepted. Do not prefer lunch.,NEW-011
+sdhgvf@upenn.edu,Lunch or dinner,2026/11/29 05:00-22:00,Penn campus · student common area,0.0,10.0,2,4,English,conversational,None specified,NEW-010
+adv@upenn.edu,Sports & outdoors,2026/11/23 18:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,Hope the time does not exceed 1 hour.,NEW-012
+sgd@upenn.edu,Sports & outdoors,2026/11/23 18:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,Hope we can play for more than two hours.,NEW-013
+weret@upenn.edu,Sports & outdoors,2026/11/23 18:00-21:00,Penn campus · student common area,0.0,15.0,2,4,English,conversational,Hope for no more than 30 minutes.,NEW-012

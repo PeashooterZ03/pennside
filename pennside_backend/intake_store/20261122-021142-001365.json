@@ -1,0 +1,73 @@
+{
+  "key": "pennside:intake:1795331501935",
+  "record": {
+    "syntheticUserId": "YOUR PLAN",
+    "email": "aaa2@ss.c",
+    "rawInput": "",
+    "scenario": "Dining",
+    "testCase": "Structured form",
+    "pipelineStage": "Confirmed · demo",
+    "category": "Dining",
+    "activity": "Lunch or dinner",
+    "activityExtracted": "Lunch or dinner",
+    "time": "2026-11-23T18:00",
+    "flexibility": "Within selected availability",
+    "location": "Penn campus · student common area",
+    "budgetMin": 0,
+    "budgetMax": 15,
+    "minParty": 2,
+    "maxParty": 4,
+    "duration": 180,
+    "language": "english",
+    "socialEnergy": "conversational",
+    "softPreferences": "only want to have lunch.",
+    "hardConstraints": "Available: 2026-11-23 at 18:00 – 2026-11-23 at 21:00 (Eastern Time); location: Penn campus · student common area; budget: $0–$15/person; total party: 2–4, including organizer; social energy: conversational; language: english",
+    "missingFields": "None",
+    "conflictFlag": "None",
+    "expectedAction": "Use confirmed selections for matching",
+    "expectedQuestion": "",
+    "confirmedSummary": "Lunch or dinner | 2026-11-23 at 18:00 – 2026-11-23 at 21:00 (Eastern Time) | Penn campus · student common area | $0–$15/person | 2–4 people | conversational | english",
+    "mockCandidates": 0,
+    "expectedMatch": "Matching is not connected yet.",
+    "invitationResult": "No invitation sent",
+    "resourceStatus": "Not checked",
+    "nextStep": "Explore demo events",
+    "feedbackLoop": "Not started",
+    "availableUntil": "2026-11-23T21:00",
+    "timeZone": "America/New_York"
+  },
+  "plan": {
+    "planId": 72,
+    "activity": "Lunch or dinner",
+    "availability": "2026/11/23 18:00-21:00",
+    "location": "Penn campus · student common area",
+    "budgetMin": 0.0,
+    "budgetMax": 15.0,
+    "minParty": 2,
+    "maxParty": 4,
+    "language": "English",
+    "socialEnergy": "conversational",
+    "softPreferences": "only want to have lunch.",
+    "cluster": {
+      "id": "NEW-006",
+      "memberCount": 1,
+      "availability": "2026/11/23 18:00-21:00",
+      "location": "Penn campus · student common area",
+      "minGroupSize": 2,
+      "maxGroupSize": 4,
+      "budgetMin": 0.0,
+      "budgetMax": 15.0,
+      "language": "English",
+      "members": [
+        {
+          "email": "aaa2@ss.c",
+          "activity": "Lunch or dinner",
+          "availability": "2026/11/23 18:00-21:00",
+          "socialEnergy": "conversational",
+          "softPreferences": "only want to have lunch.",
+          "isCurrentUser": true
+        }
+      ]
+    }
+  }
+}

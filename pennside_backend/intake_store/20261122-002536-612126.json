@@ -1,0 +1,81 @@
+{
+  "key": "pennside:intake:1795325115166",
+  "record": {
+    "syntheticUserId": "YOUR PLAN",
+    "email": "zzk@xyz.com",
+    "rawInput": "",
+    "scenario": "Social",
+    "testCase": "Structured form",
+    "pipelineStage": "Confirmed · demo",
+    "category": "Social",
+    "activity": "Coffee & conversation",
+    "activityExtracted": "Coffee & conversation",
+    "time": "2026-11-23T18:10",
+    "flexibility": "Within selected availability",
+    "location": "Penn campus · student common area",
+    "budgetMin": 0,
+    "budgetMax": 10,
+    "minParty": 3,
+    "maxParty": 4,
+    "duration": 170,
+    "language": "both",
+    "socialEnergy": "conversational",
+    "softPreferences": "All good.",
+    "hardConstraints": "Available: 2026-11-23 at 18:10 – 2026-11-23 at 21:00 (Eastern Time); location: Penn campus · student common area; budget: $0–$10/person; total party: 3–4, including organizer; social energy: conversational; language: both",
+    "missingFields": "None",
+    "conflictFlag": "None",
+    "expectedAction": "Use confirmed selections for matching",
+    "expectedQuestion": "",
+    "confirmedSummary": "Coffee & conversation | 2026-11-23 at 18:10 – 2026-11-23 at 21:00 (Eastern Time) | Penn campus · student common area | $0–$10/person | 3–4 people | conversational | both",
+    "mockCandidates": 0,
+    "expectedMatch": "Matching is not connected yet.",
+    "invitationResult": "No invitation sent",
+    "resourceStatus": "Not checked",
+    "nextStep": "Explore demo events",
+    "feedbackLoop": "Not started",
+    "availableUntil": "2026-11-23T21:00",
+    "timeZone": "America/New_York"
+  },
+  "plan": {
+    "planId": 65,
+    "activity": "Coffee & conversation",
+    "availability": "2026/11/23 18:10-21:00",
+    "location": "Penn campus · student common area",
+    "budgetMin": 0.0,
+    "budgetMax": 10.0,
+    "minParty": 3,
+    "maxParty": 4,
+    "language": "Both",
+    "socialEnergy": "conversational",
+    "softPreferences": "All good.",
+    "cluster": {
+      "id": "NEW-003",
+      "memberCount": 2,
+      "availability": "2026/11/23 18:10-21:00",
+      "location": "Penn campus · student common area",
+      "minGroupSize": 3,
+      "maxGroupSize": 4,
+      "budgetMin": 0.0,
+      "budgetMax": 10.0,
+      "language": "English",
+      "members": [
+        {
+          "email": "zzk@abc.com",
+          "activity": "Coffee & conversation",
+          "availability": "2026/11/23 18:00-21:00",
+          "socialEnergy": "conversational",
+          "softPreferences": "None specified",
+          "isCurrentUser": false
+        },
+        {
+          "email": "zzk@xyz.com",
+          "activity": "Coffee & conversation",
+          "availability": "2026/11/23 18:10-21:00",
+          "socialEnergy": "conversational",
+          "softPreferences": "All good.",
+          "isCurrentUser": true
+        }
+      ]
+    }
+  }
+}

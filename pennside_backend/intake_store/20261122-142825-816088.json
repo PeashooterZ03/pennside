@@ -1,0 +1,81 @@
+{
+  "key": "pennside:intake:1795375704033",
+  "record": {
+    "syntheticUserId": "YOUR PLAN",
+    "email": "sdhgvf@upenn.edu",
+    "rawInput": "",
+    "scenario": "Dining",
+    "testCase": "Structured form",
+    "pipelineStage": "Confirmed · demo",
+    "category": "Dining",
+    "activity": "Lunch or dinner",
+    "activityExtracted": "Lunch or dinner",
+    "time": "2026-11-29T05:00",
+    "flexibility": "Within selected availability",
+    "location": "Penn campus · student common area",
+    "budgetMin": 0,
+    "budgetMax": 10,
+    "minParty": 2,
+    "maxParty": 4,
+    "duration": 1020,
+    "language": "english",
+    "socialEnergy": "conversational",
+    "softPreferences": "None specified",
+    "hardConstraints": "Available: 2026-11-29 at 05:00 – 2026-11-29 at 22:00 (Eastern Time); location: Penn campus · student common area; budget: $0–$10/person; total party: 2–4, including organizer; social energy: conversational; language: english",
+    "missingFields": "None",
+    "conflictFlag": "None",
+    "expectedAction": "Use confirmed selections for matching",
+    "expectedQuestion": "",
+    "confirmedSummary": "Lunch or dinner | 2026-11-29 at 05:00 – 2026-11-29 at 22:00 (Eastern Time) | Penn campus · student common area | $0–$10/person | 2–4 people | conversational | english",
+    "mockCandidates": 0,
+    "expectedMatch": "Matching is not connected yet.",
+    "invitationResult": "No invitation sent",
+    "resourceStatus": "Not checked",
+    "nextStep": "Explore demo events",
+    "feedbackLoop": "Not started",
+    "availableUntil": "2026-11-29T22:00",
+    "timeZone": "America/New_York"
+  },
+  "plan": {
+    "planId": 80,
+    "activity": "Lunch or dinner",
+    "availability": "2026/11/29 05:00-22:00",
+    "location": "Penn campus · student common area",
+    "budgetMin": 0.0,
+    "budgetMax": 10.0,
+    "minParty": 2,
+    "maxParty": 4,
+    "language": "English",
+    "socialEnergy": "conversational",
+    "softPreferences": "None specified",
+    "cluster": {
+      "id": "NEW-010",
+      "memberCount": 2,
+      "availability": "2026/11/29 09:00-21:00",
+      "location": "Penn campus · student common area",
+      "minGroupSize": 2,
+      "maxGroupSize": 4,
+      "budgetMin": 0.0,
+      "budgetMax": 10.0,
+      "language": "English",
+      "members": [
+        {
+          "email": "hsgdhhjbhb@upenn.edu",
+          "activity": "Lunch or dinner",
+          "availability": "2026/11/29 09:00-21:00",
+          "socialEnergy": "conversational",
+          "softPreferences": "Only lunch, not dinner.",
+          "isCurrentUser": false
+        },
+        {
+          "email": "sdhgvf@upenn.edu",
+          "activity": "Lunch or dinner",
+          "availability": "2026/11/29 05:00-22:00",
+          "socialEnergy": "conversational",
+          "softPreferences": "None specified",
+          "isCurrentUser": true
+        }
+      ]
+    }
+  }
+}

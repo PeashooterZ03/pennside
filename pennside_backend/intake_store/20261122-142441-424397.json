@@ -1,0 +1,89 @@
+{
+  "key": "pennside:intake:1795375455190",
+  "record": {
+    "syntheticUserId": "YOUR PLAN",
+    "email": "aaaaaa@upenn.edu",
+    "rawInput": "",
+    "scenario": "Entertainment",
+    "testCase": "Structured form",
+    "pipelineStage": "Confirmed · demo",
+    "category": "Entertainment",
+    "activity": "Movie",
+    "activityExtracted": "Movie",
+    "time": "2026-11-23T15:00",
+    "flexibility": "Within selected availability",
+    "location": "University City",
+    "budgetMin": 0,
+    "budgetMax": 15,
+    "minParty": 5,
+    "maxParty": 9,
+    "duration": 360,
+    "language": "both",
+    "socialEnergy": "open to anything",
+    "softPreferences": "None specified",
+    "hardConstraints": "Available: 2026-11-23 at 15:00 – 2026-11-23 at 21:00 (Eastern Time); location: University City; budget: $0–$15/person; total party: 5–9, including organizer; social energy: open to anything; language: both",
+    "missingFields": "None",
+    "conflictFlag": "None",
+    "expectedAction": "Use confirmed selections for matching",
+    "expectedQuestion": "",
+    "confirmedSummary": "Movie | 2026-11-23 at 15:00 – 2026-11-23 at 21:00 (Eastern Time) | University City | $0–$15/person | 5–9 people | open to anything | both",
+    "mockCandidates": 0,
+    "expectedMatch": "Matching is not connected yet.",
+    "invitationResult": "No invitation sent",
+    "resourceStatus": "Not checked",
+    "nextStep": "Explore demo events",
+    "feedbackLoop": "Not started",
+    "availableUntil": "2026-11-23T21:00",
+    "timeZone": "America/New_York"
+  },
+  "plan": {
+    "planId": 77,
+    "activity": "Movie",
+    "availability": "2026/11/23 15:00-21:00",
+    "location": "University City",
+    "budgetMin": 0.0,
+    "budgetMax": 15.0,
+    "minParty": 5,
+    "maxParty": 9,
+    "language": "Both",
+    "socialEnergy": "open to anything",
+    "softPreferences": "None specified",
+    "cluster": {
+      "id": "G055-SPLIT-002",
+      "memberCount": 3,
+      "availability": "2026/11/23 16:00-18:00",
+      "location": "University City",
+      "minGroupSize": 6,
+      "maxGroupSize": 6,
+      "budgetMin": 0.0,
+      "budgetMax": 15.0,
+      "language": "Chinese",
+      "members": [
+        {
+          "email": "user-c9540796c11e@example.com",
+          "activity": "Movie",
+          "availability": "2026/11/23 16:00-18:00",
+          "socialEnergy": "活跃/高社交能量",
+          "softPreferences": "希望大家兴趣相近",
+          "isCurrentUser": false
+        },
+        {
+          "email": "user-09c97d233cf3@example.com",
+          "activity": "Movie",
+          "availability": "2026/11/23 16:00-18:00",
+          "socialEnergy": "轻松聊天",
+          "softPreferences": "更喜欢步行能到的地方",
+          "isCurrentUser": false
+        },
+        {
+          "email": "aaaaaa@upenn.edu",
+          "activity": "Movie",
+          "availability": "2026/11/23 15:00-21:00",
+          "socialEnergy": "open to anything",
+          "softPreferences": "None specified",
+          "isCurrentUser": true
+        }
+      ]
+    }
+  }
+}

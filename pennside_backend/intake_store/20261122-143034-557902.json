@@ -1,0 +1,73 @@
+{
+  "key": "pennside:intake:1795375834210",
+  "record": {
+    "syntheticUserId": "YOUR PLAN",
+    "email": "sgd@upenn.edu",
+    "rawInput": "",
+    "scenario": "Wellness",
+    "testCase": "Structured form",
+    "pipelineStage": "Confirmed · demo",
+    "category": "Wellness",
+    "activity": "Sports & outdoors",
+    "activityExtracted": "Sports & outdoors",
+    "time": "2026-11-23T18:00",
+    "flexibility": "Within selected availability",
+    "location": "Penn campus · student common area",
+    "budgetMin": 0,
+    "budgetMax": 15,
+    "minParty": 2,
+    "maxParty": 4,
+    "duration": 180,
+    "language": "english",
+    "socialEnergy": "conversational",
+    "softPreferences": "Hope we can play for more than two hours.",
+    "hardConstraints": "Available: 2026-11-23 at 18:00 – 2026-11-23 at 21:00 (Eastern Time); location: Penn campus · student common area; budget: $0–$15/person; total party: 2–4, including organizer; social energy: conversational; language: english",
+    "missingFields": "None",
+    "conflictFlag": "None",
+    "expectedAction": "Use confirmed selections for matching",
+    "expectedQuestion": "",
+    "confirmedSummary": "Sports & outdoors | 2026-11-23 at 18:00 – 2026-11-23 at 21:00 (Eastern Time) | Penn campus · student common area | $0–$15/person | 2–4 people | conversational | english",
+    "mockCandidates": 0,
+    "expectedMatch": "Matching is not connected yet.",
+    "invitationResult": "No invitation sent",
+    "resourceStatus": "Not checked",
+    "nextStep": "Explore demo events",
+    "feedbackLoop": "Not started",
+    "availableUntil": "2026-11-23T21:00",
+    "timeZone": "America/New_York"
+  },
+  "plan": {
+    "planId": 82,
+    "activity": "Sports & outdoors",
+    "availability": "2026/11/23 18:00-21:00",
+    "location": "Penn campus · student common area",
+    "budgetMin": 0.0,
+    "budgetMax": 15.0,
+    "minParty": 2,
+    "maxParty": 4,
+    "language": "English",
+    "socialEnergy": "conversational",
+    "softPreferences": "Hope we can play for more than two hours.",
+    "cluster": {
+      "id": "NEW-013",
+      "memberCount": 1,
+      "availability": "2026/11/23 18:00-21:00",
+      "location": "Penn campus · student common area",
+      "minGroupSize": 2,
+      "maxGroupSize": 4,
+      "budgetMin": 0.0,
+      "budgetMax": 15.0,
+      "language": "English",
+      "members": [
+        {
+          "email": "sgd@upenn.edu",
+          "activity": "Sports & outdoors",
+          "availability": "2026/11/23 18:00-21:00",
+          "socialEnergy": "conversational",
+          "softPreferences": "Hope we can play for more than two hours.",
+          "isCurrentUser": true
+        }
+      ]
+    }
+  }
+}
