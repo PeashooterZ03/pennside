@@ -16,7 +16,7 @@ A full-stack project containing both frontend and backend modules.
 
 ## Execution Guide
 
-You should execute the frontend code and backend code at the same time.
+You should execute the frontend code and backend code at the same time in two different terminals.
 ### Frontend
 
 ```bash
