@@ -14,8 +14,9 @@ A full-stack project containing both frontend and backend modules.
 - pnpm
 - Python
 
-## Quick Start
+## Execution Guide
 
+You should execute the frontend code and backend code at the same time.
 ### Frontend
 
 ```bash
@@ -25,6 +26,8 @@ cd pennside_frontend
 # Start the development server
 pnpm dev
 ```
+
+Then run the localhost link provided.
 
 ### Backend
 
