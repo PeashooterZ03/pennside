@@ -24,8 +24,10 @@ cd pennside_frontend
 
 # Start the development server
 pnpm dev
+```
 
 ### Backend
+
 
 ```bash
 # Navigate to the backend directory
@@ -33,3 +35,4 @@ cd pennside_backend
 
 # Start the backend program
 uvicorn interact_demo:app --reload --host 127.0.0.1 --port 8000
+```
