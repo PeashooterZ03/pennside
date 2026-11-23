@@ -36,6 +36,9 @@ Then run the localhost link provided.
 # Navigate to the backend directory
 cd pennside_backend
 
+# Install the packages
+pip install -r requirements.txt 
+
 # Start the backend program
 uvicorn interact_demo:app --reload --host 127.0.0.1 --port 8000
 ```
